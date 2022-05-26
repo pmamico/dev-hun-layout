@@ -5,4 +5,4 @@
 
 MacOS nemzetközi billentyűzethez magyar ékezetkiosztás.
 
-![hunonusv1](/uploads/71d026d9bf780d5a4ebeac895174973e/hunonusv1.png)
+![DevHunLayout](dev_hun.png)
